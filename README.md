@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rabin karki
+- 👀 I’m interested in Python/Django
+- 🌱 I’m currently learning Python and Django as well.
+- 💞️ I’m looking to collaborate on e-commerce projects.
